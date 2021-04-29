@@ -1,1 +1,2 @@
 - md stands for markdown
+- last action taken on a file is shown in the repo or folder holding the document
